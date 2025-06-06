@@ -1,15 +1,3 @@
-//  TAREAS A HACER: 
-//  TENER UN ARRAY DE OBJETOS CON LOS NOMBRES DE PRODUCTOS, SUS PRECIOS ETC. ✅
-//  ESTOS TIENEN QUE SER PUESTOS EN PANTALLA, POR USO DE DOM.✅
-//  EVENTOS:
-//      TENER UN PAGINA PARA EL CARRITO, QUE SE MUESTRA AL HACER CLICK EN EL ICONO DEL CARRITO. ✅
-//      AL HACER CLICK EN UN PRODUCTO, SE TIENE QUE AÑADIR AL CARRITO. JSON.    ✅
-//      SACAR PRODUCTOS DEL CARRITO.✅
-//      TENER EL TOTAL DE LO QUE HAY EN EL CARRITO.✅
-//Problemas:
-//  Hay que reiniciar la pagina para que se vea el carrito, despues de eliminar un producto.
-//  Arreglar un poco de css.
-//  Poner otras imagenes.
 
 let productos = [
     { id: 1, nombre: "Resistencia", precio: 100, cantidad: 100, imagen: "../imagenes/resistencia.jpeg" },
