@@ -1,0 +1,21 @@
+
+
+.producto {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+.producto-div {
+    margin: 20px;
+}
+
+.producto-div:hover {
+    transform: scale(1.02);
+}
+
+
+
+
